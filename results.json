@@ -1,0 +1,10 @@
+{
+  "gradient_check_max_rel_error": 1.2643063278865734e-08,
+  "final_train_mse": 8.661419148633403e-06,
+  "final_val_mse": 8.915841305507422e-06,
+  "test_error_mm_mean": 1.9077974845747794,
+  "test_error_mm_p95": 4.0214692269284775,
+  "test_error_mm_max": 15.930482761209726,
+  "jacobian_rel_error_median_pct": 1.7986375726118338,
+  "jacobian_rel_error_mean_pct": 2.758533950699698
+}
